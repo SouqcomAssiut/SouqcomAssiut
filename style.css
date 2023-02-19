@@ -9,7 +9,7 @@
     font-family: sans-serif;
   }
   nav{
-    background: #0082e6;
+    background: #008bff;
     height: 80px;
     width: 100%;
   }
@@ -86,7 +86,7 @@
     }
     a:hover,a.active{
       background: none;
-      color: #0082e6;
+      color: #008bff;
     }
     #check:checked ~ ul{
       left: 0;
@@ -137,7 +137,7 @@
 
 .btn-1{
     text-align: center;
-    background: #000;
+    background: #007c1f;
     color: white;
     border-radius: 30px;
     transition: transform 0.3s ease;
@@ -171,7 +171,7 @@
 
 
 .btn-2{
-    background: #0082e6;
+    background: #008bff;
     color: white;
     border-radius: 30px;
     transition: transform 0.3s ease;
@@ -207,7 +207,7 @@
 .p2{
     margin-top: 20px;
     text-align: center;
-    color: #1977d6;
+    color: #008bff;
 }
 
 h2{
